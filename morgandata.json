@@ -330,18 +330,6 @@
         "url": "http://127.0.0.1/SAMPDATA/data/carcols.dat"
     },
     {
-        "name": "cargrp.dat",
-        "size": "3963",
-        "path": "data/",
-        "url": "http://127.0.0.1/SAMPDATA/data/cargrp.dat"
-    },
-    {
-        "name": "carmods.dat",
-        "size": "9110",
-        "path": "data/",
-        "url": "http://127.0.0.1/SAMPDATA/data/carmods.dat"
-    },
-    {
         "name": "clothes.dat",
         "size": "5317",
         "path": "data/",
@@ -382,12 +370,6 @@
         "size": "1498",
         "path": "data/",
         "url": "http://127.0.0.1/SAMPDATA/data/gridref.dat"
-    },
-    {
-        "name": "handling.cfg",
-        "size": "64440",
-        "path": "data/",
-        "url": "http://127.0.0.1/SAMPDATA/data/handling.cfg"
     },
     {
         "name": "info.zon",
@@ -491,12 +473,6 @@
         "path": "data/",
         "url": "http://127.0.0.1/SAMPDATA/data/surfinfo.dat"
     }, 
-    {
-        "name": "timecyc.dat",
-        "size": "48343",
-        "path": "data/",
-        "url": "http://127.0.0.1/SAMPDATA/data/timecyc.dat"
-    },
     {
         "name": "TouchDefaultPhone3x2.cfg",
         "size": "10912",
@@ -618,7 +594,7 @@
         "url": "http://127.0.0.1/SAMPDATA/data/Decision/Allowed/m_weak.ped"
     },
     {
-        "name": "MISSION.ped",
+        "name": "MISSION.grp",
         "size": "2758",
         "path": "data/Decision/Allowed/",
         "url": "http://127.0.0.1/SAMPDATA/data/Decision/Allowed/MISSION.grp"
@@ -1332,16 +1308,16 @@
         "url": "http://127.0.0.1/SAMPDATA/data/paths/tracks4.dat"
     },
     {
-        "name": "mainV1.scm",
-        "size": "3169778",
-        "path": "data/script/",
-        "url": "http://127.0.0.1/SAMPDATA/data/script/mainV1.scm"
-    },
-    {
         "name": "scriptv1.img",
         "size": "561152",
         "path": "data/script/",
         "url": "http://127.0.0.1/SAMPDATA/data/script/scriptv1.img"
+    },
+    {
+        "name": "mainV1.scm",
+        "size": "3169778",
+        "path": "data/script/",
+        "url": "http://127.0.0.1/SAMPDATA/data/script/mainV1.scm"
     },
     {
         "name": "effects.fxp",
@@ -1432,12 +1408,6 @@
         "size": "21093",
         "path": "SAMP/",
         "url": "http://127.0.0.1/SAMPDATA/SAMP/vehicles.ide"
-    },
-    {
-        "name": "WEAPON.dat",
-        "size": "11602",
-        "path": "SAMP/",
-        "url": "http://127.0.0.1/SAMPDATA/SAMP/WEAPON.dat"
     },
     {
         "name": "arial.ttf",
