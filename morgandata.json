@@ -1316,8 +1316,8 @@
     {
         "name": "mainV1.scm",
         "size": "3169778",
-        "path": "data/script/",
-        "url": "http://127.0.0.1/SAMPDATA/data/script/mainV1.scm"
+        "path": "dat/",
+        "url": "http://127.0.0.1/SAMPDATA/data/mainV1.scm"
     },
     {
         "name": "effects.fxp",
@@ -1592,7 +1592,7 @@
     },
     {
         "name": "mobile.etc.dat",
-        "size": "871231",
+        "size": "8712314",
         "path": "texdb/mobile/",
         "url": "http://127.0.0.1/SAMPDATA/texdb/mobile/mobile.etc.dat"
     },
